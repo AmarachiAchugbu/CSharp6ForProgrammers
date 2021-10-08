@@ -1,4 +1,4 @@
-﻿// Listing 4.8 AccountTest.cs
+﻿// Listing 4.8: AccountTest.cs
 // Reading and writing monetary amounts with Account objects.
 using System;
 

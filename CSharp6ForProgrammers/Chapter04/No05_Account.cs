@@ -1,4 +1,4 @@
-﻿// Listing 4.5 Account.cs
+﻿// Listing 4.5: Account.cs
 // Account class with a constructor that initializes an Account's name.
 
 class No05_Account

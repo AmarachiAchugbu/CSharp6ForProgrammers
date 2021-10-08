@@ -1,4 +1,4 @@
-﻿// Listing 4.7 Account.cs
+﻿// Listing 4.7: Account.cs
 // Account class with a balance and a Deposit method
 
 class No07_Account

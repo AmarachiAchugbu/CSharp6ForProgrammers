@@ -1,4 +1,4 @@
-﻿// Listing 4.2 AccountTest.cs
+﻿// Listing 4.2: AccountTest.cs
 // Creating and manipulating an Account object
 using System;
 

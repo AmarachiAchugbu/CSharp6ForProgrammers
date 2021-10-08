@@ -1,4 +1,4 @@
-﻿// Listing 4.3 Account.cs
+﻿// Listing 4.3: Account.cs
 // Account class that replaces public methods SetName
 // and GetName with a public Name property
 

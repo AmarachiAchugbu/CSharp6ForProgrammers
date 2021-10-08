@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>No08_AccountTest</StartupObject>
+    <StartupObject>No04_ClassAverage2</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -60,6 +60,10 @@
     <Compile Include="Chapter04\No06_AccountTest.cs" />
     <Compile Include="Chapter04\No07_Account.cs" />
     <Compile Include="Chapter04\No08_AccountTest.cs" />
+    <Compile Include="Chapter05\No01_Student.cs" />
+    <Compile Include="Chapter05\No02_StudentTest.cs" />
+    <Compile Include="Chapter05\No03_ClassAverage.cs" />
+    <Compile Include="Chapter05\No04_ClassAverage2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

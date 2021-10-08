@@ -1,11 +1,11 @@
-﻿// Listing 4.6 AccountTest.cs
+﻿// Listing 4.6: AccountTest.cs
 // Using the Account constructor to set an Account's name
 // when an Account object is created.
 using System;
 
 class No06_AccountTest
 {
-    static void Main()
+    private static void Main()
     {
         // Create two Account objects
         No05_Account account1 = new No05_Account("Jane Green");

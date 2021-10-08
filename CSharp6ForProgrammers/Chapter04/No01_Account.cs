@@ -1,4 +1,4 @@
-﻿// Listing 4.1 Account.cs
+﻿// Listing 4.1: Account.cs
 // A simple Account class that contains a private instance
 // variable 'name', and public methods to Set and Get name's value
 

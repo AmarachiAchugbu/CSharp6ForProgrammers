@@ -1,4 +1,4 @@
-﻿// Listing 06 - Comparison.cs
+﻿// Listing 3.6: Comparison.cs
 // Comparing integers using if statements, equality operators
 // and relational operators
 using System;

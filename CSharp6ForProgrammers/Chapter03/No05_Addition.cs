@@ -1,11 +1,11 @@
-﻿// Listing 05 - Addition.cs
+﻿// Listing 3.5: Addition.cs
 // Displaying the sum of two numbers input from the keyboard.
 using System;
 
 class No05_Addition
 {
     // Main method begins execution of C# app
-    private static void Main()
+   /* private static void Main()
     {
         int number1; // declare first number to add
         int number2; // declare second number to add
@@ -22,5 +22,5 @@ class No05_Addition
         sum = number1 + number2; // add the numbers
 
         Console.WriteLine($"Sum is {sum}"); // display sum
-    } // end Main
+    } // end Main*/
 } // end class Addition
