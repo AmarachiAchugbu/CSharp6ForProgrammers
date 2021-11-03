@@ -4,7 +4,7 @@ using System;
 
 class No08_AccountTest
 {
-    private static void Main()
+    /*private static void Main()
     {
         No07_Account account1 = new No07_Account("Jane Green", 50.00m);
         No07_Account account2 = new No07_Account("John Blue", -7.53m);
@@ -32,5 +32,5 @@ class No08_AccountTest
         // Display balances
         Console.WriteLine($"{account1.Name}'s balance: {account1.Balance:C}");
         Console.WriteLine($"{account2.Name}'s balance: {account2.Balance:C}");
-    }
+    }*/
 }

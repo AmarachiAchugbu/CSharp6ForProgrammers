@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>No04_ClassAverage2</StartupObject>
+    <StartupObject>No10_ReferenceAndOutputParameters</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -64,6 +64,29 @@
     <Compile Include="Chapter05\No02_StudentTest.cs" />
     <Compile Include="Chapter05\No03_ClassAverage.cs" />
     <Compile Include="Chapter05\No04_ClassAverage2.cs" />
+    <Compile Include="Chapter05\No05_Analysis.cs" />
+    <Compile Include="Chapter05\No06_Increment.cs" />
+    <Compile Include="Chapter06\No01_WhileCounter.cs" />
+    <Compile Include="Chapter06\No02_ForCounter.cs" />
+    <Compile Include="Chapter06\No03_Sum.cs" />
+    <Compile Include="Chapter06\No04_Interest.cs" />
+    <Compile Include="Chapter06\No05_DoWhileTest.cs" />
+    <Compile Include="Chapter06\No06_LetterGrades.cs" />
+    <Compile Include="Chapter06\No07_AutoPolicy.cs" />
+    <Compile Include="Chapter06\No08_AutoPolicyTest.cs" />
+    <Compile Include="Chapter06\No09_BreakTest.cs" />
+    <Compile Include="Chapter06\No10_ContinueTest.cs" />
+    <Compile Include="Chapter06\No11_LogicalOperators.cs" />
+    <Compile Include="Chapter07\No01_MaximumFinder.cs" />
+    <Compile Include="Chapter07\No02_RandomIntegers.cs" />
+    <Compile Include="Chapter07\No03_RollDie.cs" />
+    <Compile Include="Chapter07\No04_Craps.cs" />
+    <Compile Include="Chapter07\No05_Scope.cs" />
+    <Compile Include="Chapter07\No06_Program.cs" />
+    <Compile Include="Chapter07\No07_MethodOverload.cs" />
+    <Compile Include="Chapter07\No08_CalculatePowers.cs" />
+    <Compile Include="Chapter07\No09_FactorialTest.cs" />
+    <Compile Include="Chapter07\No10_ReferenceAndOutputParameters.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

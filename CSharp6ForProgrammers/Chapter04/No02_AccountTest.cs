@@ -4,7 +4,7 @@ using System;
 
 class No02_AccountTest
 {
-    private static void Main()
+    /*private static void Main()
     {
         // Create an Account object and assign it to myAccount
         No01_Account myAccount = new No01_Account();
@@ -19,5 +19,5 @@ class No02_AccountTest
 
         // Display the name stored in the myAccount object
         Console.WriteLine($"myAccount's name is: {myAccount.GetName()}");
-    }
+    }*/
 }
